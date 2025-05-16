@@ -125,7 +125,7 @@ Detailed documentation is available in the `entropy/docs` directory:
 For support, please contact:
 
 - Email: [info@commquest.co.za](mailto:info@commquest.co.za)
-- Website: [Commquest Technologies](https://commquest.co.za)
+- Website: [Commquest Technologies](https://www.commquest.co.za)
 
 ## License
 
