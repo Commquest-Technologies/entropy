@@ -1,10 +1,10 @@
 # Entropy
 
-![Entropy Logo](https://via.placeholder.com/200x100?text=Entropy)
-
 ## Overview
 
 Entropy is a custom ERPNext application developed by Commquest Technologies (Pty) Ltd. that enhances the standard ERPNext functionality with specialized features for business process management. The application focuses on providing robust, standardized naming conventions and duplicate prevention for critical business entities.
+
+![Entropy Demo](docs/assets/entropy-demo-1.png)
 
 ## Key Features
 
